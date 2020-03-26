@@ -13,15 +13,3 @@
 - esc + u  -------  将当前词转换为大写
 - esc + |  -------  将当前词转换为小写
 
-##### 举例说明：
-
-（1）移动到命令开头：
-
-![1585188066232](C:\Users\28195\AppData\Roaming\Typora\typora-user-images\1585188066232.png)
-
-```
-ctrl + a
-```
-
-![1585188198395](C:\Users\28195\AppData\Roaming\Typora\typora-user-images\1585188198395.png)
-
