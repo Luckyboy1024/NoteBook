@@ -49,7 +49,7 @@ int main()
 	int m, a, b, c;
 	for (a = 1; a <= 9; a++)
 	{
-		for(b = 0; b <= 9; c++)
+		for(b = 0; b <= 9; b++)
 		{
 			for(c = 0; c <= 9; c++)
 			{
@@ -63,4 +63,6 @@ int main()
 	}
 	return 0;
 }
+
+
 
