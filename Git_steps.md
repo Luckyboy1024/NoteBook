@@ -7,11 +7,7 @@ git 的使用：
 
 
 
-
-
 [https://www.centos.bz/2018/03/centos7%E6%90%AD%E5%BB%BAgit%E5%8F%8A%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8/](https://www.centos.bz/2018/03/centos7搭建git及安装使用/)   Centos7搭建Git及安装使用
-
-
 
 
 
@@ -84,7 +80,29 @@ git push origin master
   git push    // 传代码至服务器
   ```
 
-  
+
+
+
+
+
+
+gitee 贡献度问题：
+
+gitee账号与本地 config 不同：(多了引号、输入错误，email 账号不对等等)
+
+git config user.name
+
+git config user.email
+
+
+
+git remote 问题：
+
+git remote rm origin 
+
+git remote -v
+
+git remote add origin http://gitee.com/.../....git
 
 
 
