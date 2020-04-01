@@ -1,2 +1,15 @@
 readme:
--> git commit 提交类型：<代码提交> <创建目录> <文件删除> <知识框架> <知识总结>
+
+-> git commit 提交类型：<代码提交> <创建目录> <文件删除> <知识框架> <知识总结> <补充修改>
+
+->linux
+---$ go 前往我的指定目录
+---$ cl clear
+---$ rm mv to rubbish
+---$ tree -L 2
+->linux vim
+---$ ctrl + w + w
+---$ ctrl + w + l 右边窗口
+---$ ctrl + w + h 左边窗口
+
+	
