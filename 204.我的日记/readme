@@ -9,6 +9,7 @@ readme:
    $ rm mv to rubbish
    $ tree -L 2
 ->linux vim
+   $ :vs file   vim 编辑框中新划分出一个窗口
    $ ctrl + w + w
    $ ctrl + w + l 右边窗口
    $ ctrl + w + h 左边窗口
