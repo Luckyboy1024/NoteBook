@@ -1,17 +1,32 @@
 readme:
 
 -> git commit 提交类型：
+	<提交博客> >>$ git commit -m "[update]: 2020-05-01"
 	<代码提交> <创建目录> <文件删除> <知识框架> <知识总结> <补充修改>
-
+	
 ->linux
-   $ go 前往我的指定目录
-   $ cl clear
-   $ rm mv to rubbish
+   $ go ~~ 前往我的指定目录
+   $ cl ~~ clear
+   $ rm ~~ mv to rubbish 《清空rubbish：cd ~/rubbish && mv ./* /tmp/》
    $ tree -L 2
 ->linux vim
    $ :vs file   vim 编辑框中新划分出一个窗口
    $ ctrl + w + w
    $ ctrl + w + l 右边窗口
    $ ctrl + w + h 左边窗口
+   $ v 操作：
+   	* 移动到行首，ctrl + v 上下选中(hjkl)目标行 再 I (大写的i) ，然后 # ，esc，选中的所有行就都被 # 注释掉了
+	* 移动到目标列，Ctrl + v 上下选中(hjkl)目标字符，d，删除此列中选中的部分字符
 
+
+
+-> bash 脚本：
+   $ @开头的命令表示：在后台运行
+   $
+   $
+   $   
 	
+	
+	
+
+Linux 中下载 g++ >>>> yum install gcc-c++ libstdc++-devel
